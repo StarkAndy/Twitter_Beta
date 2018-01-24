@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter_Fourth</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">Q9byTVkpRo7bytVMMERUTlAgV</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">zGk9C4N77rRk0JIB9okmFL1exREr8RVJXnevhHD53rQL90CpD5</string>
+</resources>
